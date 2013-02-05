@@ -9,4 +9,4 @@ questionable things to them.
 '''
 
 if __name__ == '__main__':
-    print "tes"
+    print "test"
